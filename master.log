@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=pdflatex 2017.12.19)  3 MAR 2019 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=pdflatex 2017.12.19)  3 MAR 2019 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1514,18 +1514,18 @@ LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 40.
 [3] [4] [5] [6]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 94.
+(Font)              scaled to size 10.42007pt on input line 100.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 94.
+(Font)              scaled to size 10.42007pt on input line 100.
  <figures/Program.jpg, id=46, 1103.62312pt x 492.33937pt>
 File: figures/Program.jpg Graphic file (type jpg)
 
 <use figures/Program.jpg>
-Package pdftex.def Info: figures/Program.jpg used on input line 99.
+Package pdftex.def Info: figures/Program.jpg used on input line 105.
 (pdftex.def)             Requested size: 728.39352pt x 324.94498pt.
 
 
-LaTeX Warning: Float too large for page by 136.86333pt on input line 100.
+LaTeX Warning: Float too large for page by 136.86333pt on input line 106.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1565,7 +1565,7 @@ fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></usr/share
 /texmf/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf/fonts/type1/urw/pa
 latino/uplr8a.pfb>
-Output written on master.pdf (8 pages, 265993 bytes).
+Output written on master.pdf (8 pages, 267084 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
